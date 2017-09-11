@@ -1,0 +1,17 @@
+{
+  	"name": "laravel GUI",
+ 	"main": "index.html",
+ 	"window": {
+	    "title": "laravel GUI",
+	    "icon": "icon-32.png",
+	    "toolbar": true,
+	    "frame": true,
+	    "width": 750,
+	    "height": 750,
+	    "position": "mouse",
+	    "min_width": 750,
+	    "min_height": 750,
+	    "max_width": 750,
+	    "max_height": 1500
+	  }
+ }
